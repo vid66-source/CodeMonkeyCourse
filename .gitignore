@@ -45,3 +45,8 @@ Library/Bee/
 *.bak
 *.swp
 *.lock
+UserSettings
+Logs
+Library/Bee
+.idea
+Library
