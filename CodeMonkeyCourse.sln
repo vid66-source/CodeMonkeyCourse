@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMonkeyFree", "CodeMonkeyFree.csproj", "{d21f5150-3df2-4bf8-4ecd-0b5d87e70756}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{d21f5150-3df2-4bf8-4ecd-0b5d87e70756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d21f5150-3df2-4bf8-4ecd-0b5d87e70756}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
